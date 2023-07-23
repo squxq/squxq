@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Tomás</h1>
-<h3 align="center">A passionate software developer from Portugal</h3>
+<h3 align="center" style="margin-bottom: 1rem;">A passionate software developer from Portugal</h3>
 
 - 🔭 I’m currently working on [WriteIt](https://github.com/squxq/WriteIt).
 
